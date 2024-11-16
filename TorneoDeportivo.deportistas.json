@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6737f5ce8cf87cd0ad5e7e61"
+  },
+  "nombre": "Juan Delgado",
+  "edad": 25,
+  "nacionalidad": "colombiana",
+  "equipo": "Inter de Milan",
+  "estasdisticas": {
+    "goles": 10,
+    "asistencias": 5,
+    "victorias": 15
+  }
+}]

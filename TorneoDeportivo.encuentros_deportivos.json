@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6737f9678cf87cd0ad5e7e69"
+  },
+  "fecha": {
+    "$date": "2024-01-20T05:00:00.000Z"
+  },
+  "equipos": {
+    "equipoLocal": "equipoA",
+    "equipoVisitante": "equipoB"
+  },
+  "resultado": {
+    "GolesLocal": 2,
+    "GolesVisitante": 1
+  }
+}]

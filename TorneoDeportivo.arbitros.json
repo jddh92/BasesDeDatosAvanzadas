@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "6737f7928cf87cd0ad5e7e65"
+  },
+  "nombre": "Jaime Moron",
+  "edad": 32,
+  "nacionalidad": "Colombia",
+  "partidos": 100,
+  "experiencia": "10 años"
+}]

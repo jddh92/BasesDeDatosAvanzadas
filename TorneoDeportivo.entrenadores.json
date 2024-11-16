@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6737f6a08cf87cd0ad5e7e63"
+  },
+  "nombre": "Carlos Valderrama",
+  "edad": 65,
+  "nacionalidad": "Brasilero",
+  "equipos": [
+    "Real madrid",
+    "Lazio",
+    "Olaya"
+  ]
+}]

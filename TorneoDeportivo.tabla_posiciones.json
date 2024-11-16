@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6737f9f18cf87cd0ad5e7e6c"
+  },
+  "equipo": "Equipo A",
+  "puntos": "20",
+  "victorias7": "",
+  "derrotas": "2",
+  "golesFavor": "20",
+  "golesContra": "12",
+  "posicion": "3"
+}]
